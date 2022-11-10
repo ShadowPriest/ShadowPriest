@@ -1,16 +1,9 @@
 ### Hi there 👋, my name is Evgeniy
 #### I am a beginner backend developer
-<hr>  
+***
+![python](https://img.shields.io/badge/Python-3.8+-blue?style=flat&logo=python) ![flask](https://img.shields.io/badge/Flask-2.0+-blue?style=flat&logo=flask) ![socket.io](https://img.shields.io/badge/Socket.io-4.0%2B-blue?style=flat&logo=socket.io) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue?style=flat&logo=PostgreSQL)
 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-🌱 I’m currently learning:
+🌱 I’m currently learning:  
 -  Multiprocessing 
 -  Asyncio  
 
